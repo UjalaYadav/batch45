@@ -1,2 +1,3 @@
 this is my code
- This is my code for the duplicate branch.
+ This is my code for the duplicate branch
+I want to master the git . 
