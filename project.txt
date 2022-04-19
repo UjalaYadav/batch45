@@ -5,3 +5,4 @@ I want to master the git .
 =======
 this is my code for duplicate 3 
 >>>>>>> duplicate3
+i was added by emply 2 
