@@ -120,4 +120,4 @@ Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/UjalaYadav/batch45.git
  * [new branch]     master -> master
 
-C:\Users\user1\Desktop\demo45>
+C:\Users\user1\Desktop\demo45>this is test for duplicate branch 3
