@@ -1,3 +1,7 @@
 this is my code
  This is my code for the duplicate branch
 I want to master the git . 
+<<<<<<< HEAD
+=======
+this is my code for duplicate 3 
+>>>>>>> duplicate3

@@ -119,5 +119,10 @@ Writing objects: 100% (6/6), 508 bytes | 101.00 KiB/s, done.
 Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/UjalaYadav/batch45.git
  * [new branch]     master -> master
+<<<<<<< HEAD
 project.txt
 C:\Users\user1\Desktop\demo45>
+=======
+
+C:\Users\user1\Desktop\demo45>this is test for duplicate branch 3
+>>>>>>> duplicate3
